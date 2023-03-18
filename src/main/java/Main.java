@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// SECOND COMMIT
 public class Main {
     public static void main(String[] args) {
         // followings are the data types;
@@ -8,6 +9,7 @@ public class Main {
         // Double,  Float, eg: 1.25, 3.56, 99.99
         // Boolean eg: True, False
         // String, eg: "Tashi," "Tendol", "Bikram","123","123.45","TRUE","False"
+        System.out.println("SECOND COMMIT");
 
         double a = 10.5;
         double b = 15.5;
