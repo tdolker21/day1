@@ -16,8 +16,7 @@ public class Main {
         double result = a/b;
         System.out.println(result);
 
-        boolean c= true;
-        c= false;
+
         System.out.println(c);
         String name= "Tenzin";
         //String name1= "Tashi";
